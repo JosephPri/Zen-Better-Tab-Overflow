@@ -1,0 +1,19 @@
+{
+  "id": "better-tab-overflow",
+  "homepage": "https://github.com/JosephPri/Zen-Better-Tab-Overflow",
+  "author": "JosephPri",
+  "name": "Better Tab Overflow",
+  "description": "Replaces the built-in simple tab overflow indicators with a gradient, adding depth and improving overall readability.",
+  "version": "1.0",
+  "style": {
+    "chrome": "userChrome.css"
+  },
+  "readme": "https://raw.githubusercontent.com/JosephPri/Zen-Better-Tab-Overflow/refs/heads/main/README.md",
+  "image": "https://raw.githubusercontent.com/JosephPri/Zen-Better-Tab-Overflow/refs/heads/main/BetterTabOverflowHighRes.png",
+  "tags": [
+    "Tabs"
+  ],
+  "fork": [
+    "zen"
+  ]
+}
